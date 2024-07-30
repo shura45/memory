@@ -1,0 +1,38 @@
+[
+    {
+        "image": "https://imgkub.com/images/2022/02/16/duck.png",
+        "name": "chili"
+    },
+    {
+        "image": "https://imgkub.com/images/2022/02/16/lion.png",
+        "name": "grapes"
+    },
+    {
+        "image": "https://imgkub.com/images/2022/02/16/dog.png",
+        "name": "lemon"
+    },
+    {
+        "image": "https://ih1.redbubble.net/image.1553619932.7466/aps,504x498,small,transparent-pad,600x600,f8f8f8.u1.jpg",
+        "name": "orange"
+    },
+    {
+        "image": "https://static.vecteezy.com/system/resources/previews/020/142/649/non_2x/car-illustration-for-conceptual-design-good-for-poster-sticker-t-shirt-print-banner-free-vector.jpg",
+        "name": "pineapple"
+    },
+    {
+        "image": "../asssets/stawberry.png",
+        "name": "strawberry"
+    },
+    {
+        "image": "../asssets/tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "../asssets/watermelon.png",
+        "name": "watermelon"
+    },
+    {
+        "image": "../asssets/cherry.png",
+        "name": "cherries"
+    }
+]
